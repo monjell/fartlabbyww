@@ -67,6 +67,13 @@ padding-left: .5em;
 padding-right: .5em;
 }
 
+.pagenum {
+visibility: hidden;
+position: absolute;
+left: 92%;
+font-size: smaller;
+text-align: right;
+}
 
 h1 {
   color: red;
